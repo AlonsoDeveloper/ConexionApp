@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Conexion</string>
+    <string name="splash_tittle">Conexión</string>
+    <string name="hintNombreApellidos">Nombre y Apellidos</string>
+    <string name="hintFechaNacimiento">Fecha de nacimiento</string>
+    <string name="hintCelular">Celular</string>
+    <string name="hintEstarEnRed">¿Desea estar en una red?</string>
+    <string name="tvSí">Sí</string>
+    <string name="tvNo">No</string>
+    <string name="tvPasaráRed">Si tienes red, ¿pasará a tu red?</string>
+    <string name="tvLeEscribiré">Le escribiré</string>
+    <string name="tvOtros">Otros:</string>
+    <string name="tvFiestaNuevoCreyente">Lo invitaste a la fiesta de nuevos creyentes</string>
+    <string name="hintComentario">Déjanos un comentario</string>
+    <string name="tvEnviar">Enviar</string>
+</resources>

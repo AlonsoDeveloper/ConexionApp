@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/noticias"
+            android:title="@string/menu_noticias" />
+
+    <item
+            android:id="@+id/nuevo_creyente"
+            android:title="@string/nuevo_creyente_menu" />
+
+    <item
+            android:id="@+id/mis_datos"
+            android:title="@string/mis_datos_menu" />
+
+</menu>

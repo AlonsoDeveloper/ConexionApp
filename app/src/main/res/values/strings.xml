@@ -13,4 +13,10 @@
     <string name="tvFiestaNuevoCreyente">Lo invitaste a la fiesta de nuevos creyentes</string>
     <string name="hintComentario">Déjanos un comentario</string>
     <string name="tvEnviar">Enviar</string>
+    <string name="menu_noticias">Noticias</string>
+    <string name="nuevo_creyente_menu">Nuevo creyente</string>
+    <string name="mis_datos_menu">Mis datos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
